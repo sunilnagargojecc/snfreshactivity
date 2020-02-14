@@ -18,4 +18,4 @@ sftp.connect({
    
 }).catch(err => {
   console.log(err, 'catch error');
-});
+})
