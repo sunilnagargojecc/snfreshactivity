@@ -32,6 +32,6 @@
     "jsonwebtoken": "^8.0.1",
     "request": "^2.81.0",
     "require": "^2.4.20",
-    "ssh2-sftp-client": "^5.0.2"
+    "ssh2-sftp-client": "^9.1.0"
   }
 }
